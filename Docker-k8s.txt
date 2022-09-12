@@ -1,0 +1,13 @@
+https://support.atlassian.com/bitbucket-cloud/docs/use-docker-images-as-build-environments/
+https://dzone.com/articles/docker-tutorial-for-beginners-with-java-and-spring
+https://dzone.com/articles/50-useful-docker-tutorials-for-it-professionals-fr
+https://www.docker.com/101-tutorial/
+https://stackshare.io/stackups/docker-vs-github#:~:text=%20Docker%20belongs%20to%20%22Virtual%20Machine%20Platforms%20%26,developer%20tools.%20open%2C%20portable%20images.%20shareable%2C%20reusable%20apps.
+https://www.trustradius.com/compare-products/docker-vs-git
+https://stackshare.io/stackups/gitlab-vs-kubernetes#:~:text=GitLab%20and%20Kubernetes%20are%20both%20open%20source%20tools.,with%2020.1K%20GitHub%20stars%20and%205.33K%20GitHub%20forks.
+https://www.redhat.com/zh/topics/containers/learning-kubernetes-tutorial
+https://kubernetes.io/docs/tutorials/hello-minikube/
+https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8
+https://www.geeksforgeeks.org/creating-a-docker-image-with-git-installed/
+Build a Docker Image from a Github Repository
+https://www.jenx.si/2019/10/25/how-to-host-your-private-git-service-inside-docker/
