@@ -3,7 +3,8 @@ package com.fdmgroup.iwish.controller;
 import com.fdmgroup.iwish.view.HomeView;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController("/index")
+@RestController
+@RequestMapping("/index")
 public class HomeController {
 
 	private HomeView homeView;
