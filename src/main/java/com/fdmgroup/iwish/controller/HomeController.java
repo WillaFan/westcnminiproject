@@ -4,7 +4,7 @@ import com.fdmgroup.iwish.view.HomeView;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-//@RestController
+@RestController
 @RequestMapping("/index")
 public class HomeController {
 
