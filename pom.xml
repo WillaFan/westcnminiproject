@@ -142,12 +142,6 @@
 			</artifactId>
 		</dependency>
 
-		<dependency>
-			<groupId>com.fdmgroup.iwish</groupId>
-			<artifactId>SoloProject</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-
 
 	</dependencies>
 
