@@ -2,6 +2,7 @@ package com.fdmgroup.iwish.controller;
 
 import com.fdmgroup.iwish.view.HomeView;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.RequestMapping;
 
 //@RestController
 @RequestMapping("/index")
